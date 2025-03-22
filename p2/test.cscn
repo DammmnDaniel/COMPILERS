@@ -1,0 +1,2837 @@
+1 <if, CAT_KEYWORD> <else, CAT_KEYWORD> <while, CAT_KEYWORD> <return, CAT_KEYWORD> <int, CAT_KEYWORD> <char, CAT_KEYWORD> <void, CAT_KEYWORD> <11111111111, CAT_NUMBER> <int, CAT_KEYWORD> 
+2 <prueba, CAT_IDENTIFIER> 
+
+0.Function: lexical_analyzer
+Line: 2
+Totals - Comp: 3128, IO: 60, Gen: 3374
+Increments - Comp: 326, IO: 60, Gen: 484
+
+1.Function: categorize_token
+Line: 2
+Totals - Comp: 2802, IO: 0, Gen: 2890
+Increments - Comp: 6, IO: 0, Gen: 6
+
+2.Function: my_strcpy
+Line: 2
+Totals - Comp: 2796, IO: 0, Gen: 2884
+Increments - Comp: 14, IO: 0, Gen: 44
+
+3.Function: is_keyword
+Line: 2
+Totals - Comp: 2782, IO: 0, Gen: 2840
+Increments - Comp: 14, IO: 0, Gen: 15
+
+4.Function: my_strcmp
+Line: 2
+Totals - Comp: 2768, IO: 0, Gen: 2825
+Increments - Comp: 3, IO: 0, Gen: 2
+
+5.Function: my_strcmp
+Line: 2
+Totals - Comp: 2765, IO: 0, Gen: 2823
+Increments - Comp: 3, IO: 0, Gen: 2
+
+6.Function: my_strcmp
+Line: 2
+Totals - Comp: 2762, IO: 0, Gen: 2821
+Increments - Comp: 3, IO: 0, Gen: 2
+
+7.Function: my_strcmp
+Line: 2
+Totals - Comp: 2759, IO: 0, Gen: 2819
+Increments - Comp: 3, IO: 0, Gen: 2
+
+8.Function: my_strcmp
+Line: 2
+Totals - Comp: 2756, IO: 0, Gen: 2817
+Increments - Comp: 3, IO: 0, Gen: 2
+
+9.Function: my_strcmp
+Line: 2
+Totals - Comp: 2753, IO: 0, Gen: 2815
+Increments - Comp: 3, IO: 0, Gen: 2
+
+10.Function: my_strcmp
+Line: 2
+Totals - Comp: 2750, IO: 0, Gen: 2813
+Increments - Comp: 3, IO: 0, Gen: 2
+
+11.Function: my_strcpy
+Line: 2
+Totals - Comp: 2747, IO: 0, Gen: 2811
+Increments - Comp: 6, IO: 0, Gen: 20
+
+12.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2741, IO: 0, Gen: 2791
+Increments - Comp: 8, IO: 0, Gen: 8
+
+13.Function: is_keyword
+Line: 2
+Totals - Comp: 2733, IO: 0, Gen: 2783
+Increments - Comp: 14, IO: 0, Gen: 15
+
+14.Function: my_strcmp
+Line: 2
+Totals - Comp: 2719, IO: 0, Gen: 2768
+Increments - Comp: 3, IO: 0, Gen: 2
+
+15.Function: my_strcmp
+Line: 2
+Totals - Comp: 2716, IO: 0, Gen: 2766
+Increments - Comp: 3, IO: 0, Gen: 2
+
+16.Function: my_strcmp
+Line: 2
+Totals - Comp: 2713, IO: 0, Gen: 2764
+Increments - Comp: 3, IO: 0, Gen: 2
+
+17.Function: my_strcmp
+Line: 2
+Totals - Comp: 2710, IO: 0, Gen: 2762
+Increments - Comp: 3, IO: 0, Gen: 2
+
+18.Function: my_strcmp
+Line: 2
+Totals - Comp: 2707, IO: 0, Gen: 2760
+Increments - Comp: 3, IO: 0, Gen: 2
+
+19.Function: my_strcmp
+Line: 2
+Totals - Comp: 2704, IO: 0, Gen: 2758
+Increments - Comp: 3, IO: 0, Gen: 2
+
+20.Function: my_strcmp
+Line: 2
+Totals - Comp: 2701, IO: 0, Gen: 2756
+Increments - Comp: 3, IO: 0, Gen: 2
+
+21.Function: my_strlen
+Line: 2
+Totals - Comp: 2698, IO: 0, Gen: 2754
+Increments - Comp: 5, IO: 0, Gen: 6
+
+22.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2693, IO: 0, Gen: 2748
+Increments - Comp: 8, IO: 0, Gen: 8
+
+23.Function: is_keyword
+Line: 2
+Totals - Comp: 2685, IO: 0, Gen: 2740
+Increments - Comp: 14, IO: 0, Gen: 15
+
+24.Function: my_strcmp
+Line: 2
+Totals - Comp: 2671, IO: 0, Gen: 2725
+Increments - Comp: 3, IO: 0, Gen: 2
+
+25.Function: my_strcmp
+Line: 2
+Totals - Comp: 2668, IO: 0, Gen: 2723
+Increments - Comp: 3, IO: 0, Gen: 2
+
+26.Function: my_strcmp
+Line: 2
+Totals - Comp: 2665, IO: 0, Gen: 2721
+Increments - Comp: 3, IO: 0, Gen: 2
+
+27.Function: my_strcmp
+Line: 2
+Totals - Comp: 2662, IO: 0, Gen: 2719
+Increments - Comp: 3, IO: 0, Gen: 2
+
+28.Function: my_strcmp
+Line: 2
+Totals - Comp: 2659, IO: 0, Gen: 2717
+Increments - Comp: 3, IO: 0, Gen: 2
+
+29.Function: my_strcmp
+Line: 2
+Totals - Comp: 2656, IO: 0, Gen: 2715
+Increments - Comp: 3, IO: 0, Gen: 2
+
+30.Function: my_strcmp
+Line: 2
+Totals - Comp: 2653, IO: 0, Gen: 2713
+Increments - Comp: 3, IO: 0, Gen: 2
+
+31.Function: my_strlen
+Line: 2
+Totals - Comp: 2650, IO: 0, Gen: 2711
+Increments - Comp: 4, IO: 0, Gen: 5
+
+32.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2646, IO: 0, Gen: 2706
+Increments - Comp: 8, IO: 0, Gen: 8
+
+33.Function: is_keyword
+Line: 2
+Totals - Comp: 2638, IO: 0, Gen: 2698
+Increments - Comp: 14, IO: 0, Gen: 15
+
+34.Function: my_strcmp
+Line: 2
+Totals - Comp: 2624, IO: 0, Gen: 2683
+Increments - Comp: 3, IO: 0, Gen: 2
+
+35.Function: my_strcmp
+Line: 2
+Totals - Comp: 2621, IO: 0, Gen: 2681
+Increments - Comp: 3, IO: 0, Gen: 2
+
+36.Function: my_strcmp
+Line: 2
+Totals - Comp: 2618, IO: 0, Gen: 2679
+Increments - Comp: 3, IO: 0, Gen: 2
+
+37.Function: my_strcmp
+Line: 2
+Totals - Comp: 2615, IO: 0, Gen: 2677
+Increments - Comp: 3, IO: 0, Gen: 2
+
+38.Function: my_strcmp
+Line: 2
+Totals - Comp: 2612, IO: 0, Gen: 2675
+Increments - Comp: 3, IO: 0, Gen: 2
+
+39.Function: my_strcmp
+Line: 2
+Totals - Comp: 2609, IO: 0, Gen: 2673
+Increments - Comp: 3, IO: 0, Gen: 2
+
+40.Function: my_strcmp
+Line: 2
+Totals - Comp: 2606, IO: 0, Gen: 2671
+Increments - Comp: 3, IO: 0, Gen: 2
+
+41.Function: my_strlen
+Line: 2
+Totals - Comp: 2603, IO: 0, Gen: 2669
+Increments - Comp: 3, IO: 0, Gen: 4
+
+42.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2600, IO: 0, Gen: 2665
+Increments - Comp: 8, IO: 0, Gen: 8
+
+43.Function: is_keyword
+Line: 2
+Totals - Comp: 2592, IO: 0, Gen: 2657
+Increments - Comp: 14, IO: 0, Gen: 15
+
+44.Function: my_strcmp
+Line: 2
+Totals - Comp: 2578, IO: 0, Gen: 2642
+Increments - Comp: 3, IO: 0, Gen: 2
+
+45.Function: my_strcmp
+Line: 2
+Totals - Comp: 2575, IO: 0, Gen: 2640
+Increments - Comp: 3, IO: 0, Gen: 2
+
+46.Function: my_strcmp
+Line: 2
+Totals - Comp: 2572, IO: 0, Gen: 2638
+Increments - Comp: 3, IO: 0, Gen: 2
+
+47.Function: my_strcmp
+Line: 2
+Totals - Comp: 2569, IO: 0, Gen: 2636
+Increments - Comp: 3, IO: 0, Gen: 2
+
+48.Function: my_strcmp
+Line: 2
+Totals - Comp: 2566, IO: 0, Gen: 2634
+Increments - Comp: 3, IO: 0, Gen: 2
+
+49.Function: my_strcmp
+Line: 2
+Totals - Comp: 2563, IO: 0, Gen: 2632
+Increments - Comp: 3, IO: 0, Gen: 2
+
+50.Function: my_strcmp
+Line: 2
+Totals - Comp: 2560, IO: 0, Gen: 2630
+Increments - Comp: 3, IO: 0, Gen: 2
+
+51.Function: my_strlen
+Line: 2
+Totals - Comp: 2557, IO: 0, Gen: 2628
+Increments - Comp: 2, IO: 0, Gen: 3
+
+52.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2555, IO: 0, Gen: 2625
+Increments - Comp: 8, IO: 0, Gen: 8
+
+53.Function: is_keyword
+Line: 2
+Totals - Comp: 2547, IO: 0, Gen: 2617
+Increments - Comp: 14, IO: 0, Gen: 15
+
+54.Function: my_strcmp
+Line: 2
+Totals - Comp: 2533, IO: 0, Gen: 2602
+Increments - Comp: 3, IO: 0, Gen: 2
+
+55.Function: my_strcmp
+Line: 2
+Totals - Comp: 2530, IO: 0, Gen: 2600
+Increments - Comp: 3, IO: 0, Gen: 2
+
+56.Function: my_strcmp
+Line: 2
+Totals - Comp: 2527, IO: 0, Gen: 2598
+Increments - Comp: 3, IO: 0, Gen: 2
+
+57.Function: my_strcmp
+Line: 2
+Totals - Comp: 2524, IO: 0, Gen: 2596
+Increments - Comp: 3, IO: 0, Gen: 2
+
+58.Function: my_strcmp
+Line: 2
+Totals - Comp: 2521, IO: 0, Gen: 2594
+Increments - Comp: 3, IO: 0, Gen: 2
+
+59.Function: my_strcmp
+Line: 2
+Totals - Comp: 2518, IO: 0, Gen: 2592
+Increments - Comp: 3, IO: 0, Gen: 2
+
+60.Function: my_strcmp
+Line: 2
+Totals - Comp: 2515, IO: 0, Gen: 2590
+Increments - Comp: 3, IO: 0, Gen: 2
+
+61.Function: my_strlen
+Line: 2
+Totals - Comp: 2512, IO: 0, Gen: 2588
+Increments - Comp: 1, IO: 0, Gen: 2
+
+62.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2511, IO: 0, Gen: 2586
+Increments - Comp: 8, IO: 0, Gen: 8
+
+63.Function: is_keyword
+Line: 2
+Totals - Comp: 2503, IO: 0, Gen: 2578
+Increments - Comp: 14, IO: 0, Gen: 15
+
+64.Function: my_strcmp
+Line: 2
+Totals - Comp: 2489, IO: 0, Gen: 2563
+Increments - Comp: 3, IO: 0, Gen: 2
+
+65.Function: my_strcmp
+Line: 2
+Totals - Comp: 2486, IO: 0, Gen: 2561
+Increments - Comp: 3, IO: 0, Gen: 2
+
+66.Function: my_strcmp
+Line: 2
+Totals - Comp: 2483, IO: 0, Gen: 2559
+Increments - Comp: 3, IO: 0, Gen: 2
+
+67.Function: my_strcmp
+Line: 2
+Totals - Comp: 2480, IO: 0, Gen: 2557
+Increments - Comp: 3, IO: 0, Gen: 2
+
+68.Function: my_strcmp
+Line: 2
+Totals - Comp: 2477, IO: 0, Gen: 2555
+Increments - Comp: 3, IO: 0, Gen: 2
+
+69.Function: my_strcmp
+Line: 2
+Totals - Comp: 2474, IO: 0, Gen: 2553
+Increments - Comp: 3, IO: 0, Gen: 2
+
+70.Function: my_strcmp
+Line: 2
+Totals - Comp: 2471, IO: 0, Gen: 2551
+Increments - Comp: 3, IO: 0, Gen: 2
+
+71.Function: my_strlen
+Line: 2
+Totals - Comp: 2468, IO: 0, Gen: 2549
+Increments - Comp: 0, IO: 0, Gen: 1
+
+72.Function: categorize_token
+Line: 2
+Totals - Comp: 2468, IO: 0, Gen: 2548
+Increments - Comp: 3, IO: 0, Gen: 0
+
+73.Function: dfa_get_next_state
+Line: 2
+Totals - Comp: 2465, IO: 0, Gen: 2548
+Increments - Comp: 1, IO: 0, Gen: 1
+
+74.Function: categorize_token
+Line: 1
+Totals - Comp: 2464, IO: 0, Gen: 2547
+Increments - Comp: 4, IO: 0, Gen: 5
+
+75.Function: my_strcpy
+Line: 1
+Totals - Comp: 2460, IO: 0, Gen: 2542
+Increments - Comp: 11, IO: 0, Gen: 35
+
+76.Function: is_keyword
+Line: 1
+Totals - Comp: 2449, IO: 0, Gen: 2507
+Increments - Comp: 14, IO: 0, Gen: 15
+
+77.Function: my_strcmp
+Line: 1
+Totals - Comp: 2435, IO: 0, Gen: 2492
+Increments - Comp: 9, IO: 0, Gen: 8
+
+78.Function: my_strcmp
+Line: 1
+Totals - Comp: 2426, IO: 0, Gen: 2484
+Increments - Comp: 3, IO: 0, Gen: 2
+
+79.Function: my_strcmp
+Line: 1
+Totals - Comp: 2423, IO: 0, Gen: 2482
+Increments - Comp: 3, IO: 0, Gen: 2
+
+80.Function: my_strcmp
+Line: 1
+Totals - Comp: 2420, IO: 0, Gen: 2480
+Increments - Comp: 3, IO: 0, Gen: 2
+
+81.Function: my_strcmp
+Line: 1
+Totals - Comp: 2417, IO: 0, Gen: 2478
+Increments - Comp: 3, IO: 0, Gen: 2
+
+82.Function: my_strcmp
+Line: 1
+Totals - Comp: 2414, IO: 0, Gen: 2476
+Increments - Comp: 3, IO: 0, Gen: 2
+
+83.Function: my_strcmp
+Line: 1
+Totals - Comp: 2411, IO: 0, Gen: 2474
+Increments - Comp: 6, IO: 0, Gen: 4
+
+84.Function: my_strcpy
+Line: 1
+Totals - Comp: 2405, IO: 0, Gen: 2470
+Increments - Comp: 3, IO: 0, Gen: 11
+
+85.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2402, IO: 0, Gen: 2459
+Increments - Comp: 8, IO: 0, Gen: 8
+
+86.Function: is_keyword
+Line: 1
+Totals - Comp: 2394, IO: 0, Gen: 2451
+Increments - Comp: 14, IO: 0, Gen: 15
+
+87.Function: my_strcmp
+Line: 1
+Totals - Comp: 2380, IO: 0, Gen: 2436
+Increments - Comp: 9, IO: 0, Gen: 8
+
+88.Function: my_strcmp
+Line: 1
+Totals - Comp: 2371, IO: 0, Gen: 2428
+Increments - Comp: 3, IO: 0, Gen: 2
+
+89.Function: my_strcmp
+Line: 1
+Totals - Comp: 2368, IO: 0, Gen: 2426
+Increments - Comp: 3, IO: 0, Gen: 2
+
+90.Function: my_strcmp
+Line: 1
+Totals - Comp: 2365, IO: 0, Gen: 2424
+Increments - Comp: 3, IO: 0, Gen: 2
+
+91.Function: my_strcmp
+Line: 1
+Totals - Comp: 2362, IO: 0, Gen: 2422
+Increments - Comp: 3, IO: 0, Gen: 2
+
+92.Function: my_strcmp
+Line: 1
+Totals - Comp: 2359, IO: 0, Gen: 2420
+Increments - Comp: 3, IO: 0, Gen: 2
+
+93.Function: my_strcmp
+Line: 1
+Totals - Comp: 2356, IO: 0, Gen: 2418
+Increments - Comp: 6, IO: 0, Gen: 4
+
+94.Function: my_strlen
+Line: 1
+Totals - Comp: 2350, IO: 0, Gen: 2414
+Increments - Comp: 2, IO: 0, Gen: 3
+
+95.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2348, IO: 0, Gen: 2411
+Increments - Comp: 8, IO: 0, Gen: 8
+
+96.Function: is_keyword
+Line: 1
+Totals - Comp: 2340, IO: 0, Gen: 2403
+Increments - Comp: 14, IO: 0, Gen: 15
+
+97.Function: my_strcmp
+Line: 1
+Totals - Comp: 2326, IO: 0, Gen: 2388
+Increments - Comp: 6, IO: 0, Gen: 6
+
+98.Function: my_strcmp
+Line: 1
+Totals - Comp: 2320, IO: 0, Gen: 2382
+Increments - Comp: 3, IO: 0, Gen: 2
+
+99.Function: my_strcmp
+Line: 1
+Totals - Comp: 2317, IO: 0, Gen: 2380
+Increments - Comp: 3, IO: 0, Gen: 2
+
+100.Function: my_strcmp
+Line: 1
+Totals - Comp: 2314, IO: 0, Gen: 2378
+Increments - Comp: 3, IO: 0, Gen: 2
+
+101.Function: my_strcmp
+Line: 1
+Totals - Comp: 2311, IO: 0, Gen: 2376
+Increments - Comp: 3, IO: 0, Gen: 2
+
+102.Function: my_strcmp
+Line: 1
+Totals - Comp: 2308, IO: 0, Gen: 2374
+Increments - Comp: 3, IO: 0, Gen: 2
+
+103.Function: my_strcmp
+Line: 1
+Totals - Comp: 2305, IO: 0, Gen: 2372
+Increments - Comp: 6, IO: 0, Gen: 4
+
+104.Function: my_strlen
+Line: 1
+Totals - Comp: 2299, IO: 0, Gen: 2368
+Increments - Comp: 1, IO: 0, Gen: 2
+
+105.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2298, IO: 0, Gen: 2366
+Increments - Comp: 8, IO: 0, Gen: 8
+
+106.Function: is_keyword
+Line: 1
+Totals - Comp: 2290, IO: 0, Gen: 2358
+Increments - Comp: 14, IO: 0, Gen: 15
+
+107.Function: my_strcmp
+Line: 1
+Totals - Comp: 2276, IO: 0, Gen: 2343
+Increments - Comp: 3, IO: 0, Gen: 4
+
+108.Function: my_strcmp
+Line: 1
+Totals - Comp: 2273, IO: 0, Gen: 2339
+Increments - Comp: 3, IO: 0, Gen: 2
+
+109.Function: my_strcmp
+Line: 1
+Totals - Comp: 2270, IO: 0, Gen: 2337
+Increments - Comp: 3, IO: 0, Gen: 2
+
+110.Function: my_strcmp
+Line: 1
+Totals - Comp: 2267, IO: 0, Gen: 2335
+Increments - Comp: 3, IO: 0, Gen: 2
+
+111.Function: my_strcmp
+Line: 1
+Totals - Comp: 2264, IO: 0, Gen: 2333
+Increments - Comp: 3, IO: 0, Gen: 2
+
+112.Function: my_strcmp
+Line: 1
+Totals - Comp: 2261, IO: 0, Gen: 2331
+Increments - Comp: 3, IO: 0, Gen: 2
+
+113.Function: my_strcmp
+Line: 1
+Totals - Comp: 2258, IO: 0, Gen: 2329
+Increments - Comp: 3, IO: 0, Gen: 4
+
+114.Function: my_strlen
+Line: 1
+Totals - Comp: 2255, IO: 0, Gen: 2325
+Increments - Comp: 0, IO: 0, Gen: 1
+
+115.Function: categorize_token
+Line: 1
+Totals - Comp: 2255, IO: 0, Gen: 2324
+Increments - Comp: 3, IO: 0, Gen: 0
+
+116.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2252, IO: 0, Gen: 2324
+Increments - Comp: 1, IO: 0, Gen: 1
+
+117.Function: categorize_token
+Line: 1
+Totals - Comp: 2251, IO: 0, Gen: 2323
+Increments - Comp: 7, IO: 0, Gen: 7
+
+118.Function: my_strcpy
+Line: 1
+Totals - Comp: 2244, IO: 0, Gen: 2316
+Increments - Comp: 10, IO: 0, Gen: 32
+
+119.Function: is_keyword
+Line: 1
+Totals - Comp: 2234, IO: 0, Gen: 2284
+Increments - Comp: 14, IO: 0, Gen: 15
+
+120.Function: my_strcmp
+Line: 1
+Totals - Comp: 2220, IO: 0, Gen: 2269
+Increments - Comp: 3, IO: 0, Gen: 2
+
+121.Function: my_strcmp
+Line: 1
+Totals - Comp: 2217, IO: 0, Gen: 2267
+Increments - Comp: 3, IO: 0, Gen: 2
+
+122.Function: my_strcmp
+Line: 1
+Totals - Comp: 2214, IO: 0, Gen: 2265
+Increments - Comp: 3, IO: 0, Gen: 2
+
+123.Function: my_strcmp
+Line: 1
+Totals - Comp: 2211, IO: 0, Gen: 2263
+Increments - Comp: 3, IO: 0, Gen: 2
+
+124.Function: my_strcmp
+Line: 1
+Totals - Comp: 2208, IO: 0, Gen: 2261
+Increments - Comp: 3, IO: 0, Gen: 2
+
+125.Function: my_strcmp
+Line: 1
+Totals - Comp: 2205, IO: 0, Gen: 2259
+Increments - Comp: 3, IO: 0, Gen: 2
+
+126.Function: my_strcmp
+Line: 1
+Totals - Comp: 2202, IO: 0, Gen: 2257
+Increments - Comp: 3, IO: 0, Gen: 2
+
+127.Function: my_strcpy
+Line: 1
+Totals - Comp: 2199, IO: 0, Gen: 2255
+Increments - Comp: 11, IO: 0, Gen: 35
+
+128.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2188, IO: 0, Gen: 2220
+Increments - Comp: 8, IO: 0, Gen: 8
+
+129.Function: is_keyword
+Line: 1
+Totals - Comp: 2180, IO: 0, Gen: 2212
+Increments - Comp: 14, IO: 0, Gen: 15
+
+130.Function: my_strcmp
+Line: 1
+Totals - Comp: 2166, IO: 0, Gen: 2197
+Increments - Comp: 3, IO: 0, Gen: 2
+
+131.Function: my_strcmp
+Line: 1
+Totals - Comp: 2163, IO: 0, Gen: 2195
+Increments - Comp: 3, IO: 0, Gen: 2
+
+132.Function: my_strcmp
+Line: 1
+Totals - Comp: 2160, IO: 0, Gen: 2193
+Increments - Comp: 3, IO: 0, Gen: 2
+
+133.Function: my_strcmp
+Line: 1
+Totals - Comp: 2157, IO: 0, Gen: 2191
+Increments - Comp: 3, IO: 0, Gen: 2
+
+134.Function: my_strcmp
+Line: 1
+Totals - Comp: 2154, IO: 0, Gen: 2189
+Increments - Comp: 3, IO: 0, Gen: 2
+
+135.Function: my_strcmp
+Line: 1
+Totals - Comp: 2151, IO: 0, Gen: 2187
+Increments - Comp: 3, IO: 0, Gen: 2
+
+136.Function: my_strcmp
+Line: 1
+Totals - Comp: 2148, IO: 0, Gen: 2185
+Increments - Comp: 3, IO: 0, Gen: 2
+
+137.Function: my_strlen
+Line: 1
+Totals - Comp: 2145, IO: 0, Gen: 2183
+Increments - Comp: 10, IO: 0, Gen: 11
+
+138.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2135, IO: 0, Gen: 2172
+Increments - Comp: 8, IO: 0, Gen: 8
+
+139.Function: is_keyword
+Line: 1
+Totals - Comp: 2127, IO: 0, Gen: 2164
+Increments - Comp: 14, IO: 0, Gen: 15
+
+140.Function: my_strcmp
+Line: 1
+Totals - Comp: 2113, IO: 0, Gen: 2149
+Increments - Comp: 3, IO: 0, Gen: 2
+
+141.Function: my_strcmp
+Line: 1
+Totals - Comp: 2110, IO: 0, Gen: 2147
+Increments - Comp: 3, IO: 0, Gen: 2
+
+142.Function: my_strcmp
+Line: 1
+Totals - Comp: 2107, IO: 0, Gen: 2145
+Increments - Comp: 3, IO: 0, Gen: 2
+
+143.Function: my_strcmp
+Line: 1
+Totals - Comp: 2104, IO: 0, Gen: 2143
+Increments - Comp: 3, IO: 0, Gen: 2
+
+144.Function: my_strcmp
+Line: 1
+Totals - Comp: 2101, IO: 0, Gen: 2141
+Increments - Comp: 3, IO: 0, Gen: 2
+
+145.Function: my_strcmp
+Line: 1
+Totals - Comp: 2098, IO: 0, Gen: 2139
+Increments - Comp: 3, IO: 0, Gen: 2
+
+146.Function: my_strcmp
+Line: 1
+Totals - Comp: 2095, IO: 0, Gen: 2137
+Increments - Comp: 3, IO: 0, Gen: 2
+
+147.Function: my_strlen
+Line: 1
+Totals - Comp: 2092, IO: 0, Gen: 2135
+Increments - Comp: 9, IO: 0, Gen: 10
+
+148.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2083, IO: 0, Gen: 2125
+Increments - Comp: 8, IO: 0, Gen: 8
+
+149.Function: is_keyword
+Line: 1
+Totals - Comp: 2075, IO: 0, Gen: 2117
+Increments - Comp: 14, IO: 0, Gen: 15
+
+150.Function: my_strcmp
+Line: 1
+Totals - Comp: 2061, IO: 0, Gen: 2102
+Increments - Comp: 3, IO: 0, Gen: 2
+
+151.Function: my_strcmp
+Line: 1
+Totals - Comp: 2058, IO: 0, Gen: 2100
+Increments - Comp: 3, IO: 0, Gen: 2
+
+152.Function: my_strcmp
+Line: 1
+Totals - Comp: 2055, IO: 0, Gen: 2098
+Increments - Comp: 3, IO: 0, Gen: 2
+
+153.Function: my_strcmp
+Line: 1
+Totals - Comp: 2052, IO: 0, Gen: 2096
+Increments - Comp: 3, IO: 0, Gen: 2
+
+154.Function: my_strcmp
+Line: 1
+Totals - Comp: 2049, IO: 0, Gen: 2094
+Increments - Comp: 3, IO: 0, Gen: 2
+
+155.Function: my_strcmp
+Line: 1
+Totals - Comp: 2046, IO: 0, Gen: 2092
+Increments - Comp: 3, IO: 0, Gen: 2
+
+156.Function: my_strcmp
+Line: 1
+Totals - Comp: 2043, IO: 0, Gen: 2090
+Increments - Comp: 3, IO: 0, Gen: 2
+
+157.Function: my_strlen
+Line: 1
+Totals - Comp: 2040, IO: 0, Gen: 2088
+Increments - Comp: 8, IO: 0, Gen: 9
+
+158.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 2032, IO: 0, Gen: 2079
+Increments - Comp: 8, IO: 0, Gen: 8
+
+159.Function: is_keyword
+Line: 1
+Totals - Comp: 2024, IO: 0, Gen: 2071
+Increments - Comp: 14, IO: 0, Gen: 15
+
+160.Function: my_strcmp
+Line: 1
+Totals - Comp: 2010, IO: 0, Gen: 2056
+Increments - Comp: 3, IO: 0, Gen: 2
+
+161.Function: my_strcmp
+Line: 1
+Totals - Comp: 2007, IO: 0, Gen: 2054
+Increments - Comp: 3, IO: 0, Gen: 2
+
+162.Function: my_strcmp
+Line: 1
+Totals - Comp: 2004, IO: 0, Gen: 2052
+Increments - Comp: 3, IO: 0, Gen: 2
+
+163.Function: my_strcmp
+Line: 1
+Totals - Comp: 2001, IO: 0, Gen: 2050
+Increments - Comp: 3, IO: 0, Gen: 2
+
+164.Function: my_strcmp
+Line: 1
+Totals - Comp: 1998, IO: 0, Gen: 2048
+Increments - Comp: 3, IO: 0, Gen: 2
+
+165.Function: my_strcmp
+Line: 1
+Totals - Comp: 1995, IO: 0, Gen: 2046
+Increments - Comp: 3, IO: 0, Gen: 2
+
+166.Function: my_strcmp
+Line: 1
+Totals - Comp: 1992, IO: 0, Gen: 2044
+Increments - Comp: 3, IO: 0, Gen: 2
+
+167.Function: my_strlen
+Line: 1
+Totals - Comp: 1989, IO: 0, Gen: 2042
+Increments - Comp: 7, IO: 0, Gen: 8
+
+168.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1982, IO: 0, Gen: 2034
+Increments - Comp: 8, IO: 0, Gen: 8
+
+169.Function: is_keyword
+Line: 1
+Totals - Comp: 1974, IO: 0, Gen: 2026
+Increments - Comp: 14, IO: 0, Gen: 15
+
+170.Function: my_strcmp
+Line: 1
+Totals - Comp: 1960, IO: 0, Gen: 2011
+Increments - Comp: 3, IO: 0, Gen: 2
+
+171.Function: my_strcmp
+Line: 1
+Totals - Comp: 1957, IO: 0, Gen: 2009
+Increments - Comp: 3, IO: 0, Gen: 2
+
+172.Function: my_strcmp
+Line: 1
+Totals - Comp: 1954, IO: 0, Gen: 2007
+Increments - Comp: 3, IO: 0, Gen: 2
+
+173.Function: my_strcmp
+Line: 1
+Totals - Comp: 1951, IO: 0, Gen: 2005
+Increments - Comp: 3, IO: 0, Gen: 2
+
+174.Function: my_strcmp
+Line: 1
+Totals - Comp: 1948, IO: 0, Gen: 2003
+Increments - Comp: 3, IO: 0, Gen: 2
+
+175.Function: my_strcmp
+Line: 1
+Totals - Comp: 1945, IO: 0, Gen: 2001
+Increments - Comp: 3, IO: 0, Gen: 2
+
+176.Function: my_strcmp
+Line: 1
+Totals - Comp: 1942, IO: 0, Gen: 1999
+Increments - Comp: 3, IO: 0, Gen: 2
+
+177.Function: my_strlen
+Line: 1
+Totals - Comp: 1939, IO: 0, Gen: 1997
+Increments - Comp: 6, IO: 0, Gen: 7
+
+178.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1933, IO: 0, Gen: 1990
+Increments - Comp: 8, IO: 0, Gen: 8
+
+179.Function: is_keyword
+Line: 1
+Totals - Comp: 1925, IO: 0, Gen: 1982
+Increments - Comp: 14, IO: 0, Gen: 15
+
+180.Function: my_strcmp
+Line: 1
+Totals - Comp: 1911, IO: 0, Gen: 1967
+Increments - Comp: 3, IO: 0, Gen: 2
+
+181.Function: my_strcmp
+Line: 1
+Totals - Comp: 1908, IO: 0, Gen: 1965
+Increments - Comp: 3, IO: 0, Gen: 2
+
+182.Function: my_strcmp
+Line: 1
+Totals - Comp: 1905, IO: 0, Gen: 1963
+Increments - Comp: 3, IO: 0, Gen: 2
+
+183.Function: my_strcmp
+Line: 1
+Totals - Comp: 1902, IO: 0, Gen: 1961
+Increments - Comp: 3, IO: 0, Gen: 2
+
+184.Function: my_strcmp
+Line: 1
+Totals - Comp: 1899, IO: 0, Gen: 1959
+Increments - Comp: 3, IO: 0, Gen: 2
+
+185.Function: my_strcmp
+Line: 1
+Totals - Comp: 1896, IO: 0, Gen: 1957
+Increments - Comp: 3, IO: 0, Gen: 2
+
+186.Function: my_strcmp
+Line: 1
+Totals - Comp: 1893, IO: 0, Gen: 1955
+Increments - Comp: 3, IO: 0, Gen: 2
+
+187.Function: my_strlen
+Line: 1
+Totals - Comp: 1890, IO: 0, Gen: 1953
+Increments - Comp: 5, IO: 0, Gen: 6
+
+188.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1885, IO: 0, Gen: 1947
+Increments - Comp: 8, IO: 0, Gen: 8
+
+189.Function: is_keyword
+Line: 1
+Totals - Comp: 1877, IO: 0, Gen: 1939
+Increments - Comp: 14, IO: 0, Gen: 15
+
+190.Function: my_strcmp
+Line: 1
+Totals - Comp: 1863, IO: 0, Gen: 1924
+Increments - Comp: 3, IO: 0, Gen: 2
+
+191.Function: my_strcmp
+Line: 1
+Totals - Comp: 1860, IO: 0, Gen: 1922
+Increments - Comp: 3, IO: 0, Gen: 2
+
+192.Function: my_strcmp
+Line: 1
+Totals - Comp: 1857, IO: 0, Gen: 1920
+Increments - Comp: 3, IO: 0, Gen: 2
+
+193.Function: my_strcmp
+Line: 1
+Totals - Comp: 1854, IO: 0, Gen: 1918
+Increments - Comp: 3, IO: 0, Gen: 2
+
+194.Function: my_strcmp
+Line: 1
+Totals - Comp: 1851, IO: 0, Gen: 1916
+Increments - Comp: 3, IO: 0, Gen: 2
+
+195.Function: my_strcmp
+Line: 1
+Totals - Comp: 1848, IO: 0, Gen: 1914
+Increments - Comp: 3, IO: 0, Gen: 2
+
+196.Function: my_strcmp
+Line: 1
+Totals - Comp: 1845, IO: 0, Gen: 1912
+Increments - Comp: 3, IO: 0, Gen: 2
+
+197.Function: my_strlen
+Line: 1
+Totals - Comp: 1842, IO: 0, Gen: 1910
+Increments - Comp: 4, IO: 0, Gen: 5
+
+198.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1838, IO: 0, Gen: 1905
+Increments - Comp: 8, IO: 0, Gen: 8
+
+199.Function: is_keyword
+Line: 1
+Totals - Comp: 1830, IO: 0, Gen: 1897
+Increments - Comp: 14, IO: 0, Gen: 15
+
+200.Function: my_strcmp
+Line: 1
+Totals - Comp: 1816, IO: 0, Gen: 1882
+Increments - Comp: 3, IO: 0, Gen: 2
+
+201.Function: my_strcmp
+Line: 1
+Totals - Comp: 1813, IO: 0, Gen: 1880
+Increments - Comp: 3, IO: 0, Gen: 2
+
+202.Function: my_strcmp
+Line: 1
+Totals - Comp: 1810, IO: 0, Gen: 1878
+Increments - Comp: 3, IO: 0, Gen: 2
+
+203.Function: my_strcmp
+Line: 1
+Totals - Comp: 1807, IO: 0, Gen: 1876
+Increments - Comp: 3, IO: 0, Gen: 2
+
+204.Function: my_strcmp
+Line: 1
+Totals - Comp: 1804, IO: 0, Gen: 1874
+Increments - Comp: 3, IO: 0, Gen: 2
+
+205.Function: my_strcmp
+Line: 1
+Totals - Comp: 1801, IO: 0, Gen: 1872
+Increments - Comp: 3, IO: 0, Gen: 2
+
+206.Function: my_strcmp
+Line: 1
+Totals - Comp: 1798, IO: 0, Gen: 1870
+Increments - Comp: 3, IO: 0, Gen: 2
+
+207.Function: my_strlen
+Line: 1
+Totals - Comp: 1795, IO: 0, Gen: 1868
+Increments - Comp: 3, IO: 0, Gen: 4
+
+208.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1792, IO: 0, Gen: 1864
+Increments - Comp: 8, IO: 0, Gen: 8
+
+209.Function: is_keyword
+Line: 1
+Totals - Comp: 1784, IO: 0, Gen: 1856
+Increments - Comp: 14, IO: 0, Gen: 15
+
+210.Function: my_strcmp
+Line: 1
+Totals - Comp: 1770, IO: 0, Gen: 1841
+Increments - Comp: 3, IO: 0, Gen: 2
+
+211.Function: my_strcmp
+Line: 1
+Totals - Comp: 1767, IO: 0, Gen: 1839
+Increments - Comp: 3, IO: 0, Gen: 2
+
+212.Function: my_strcmp
+Line: 1
+Totals - Comp: 1764, IO: 0, Gen: 1837
+Increments - Comp: 3, IO: 0, Gen: 2
+
+213.Function: my_strcmp
+Line: 1
+Totals - Comp: 1761, IO: 0, Gen: 1835
+Increments - Comp: 3, IO: 0, Gen: 2
+
+214.Function: my_strcmp
+Line: 1
+Totals - Comp: 1758, IO: 0, Gen: 1833
+Increments - Comp: 3, IO: 0, Gen: 2
+
+215.Function: my_strcmp
+Line: 1
+Totals - Comp: 1755, IO: 0, Gen: 1831
+Increments - Comp: 3, IO: 0, Gen: 2
+
+216.Function: my_strcmp
+Line: 1
+Totals - Comp: 1752, IO: 0, Gen: 1829
+Increments - Comp: 3, IO: 0, Gen: 2
+
+217.Function: my_strlen
+Line: 1
+Totals - Comp: 1749, IO: 0, Gen: 1827
+Increments - Comp: 2, IO: 0, Gen: 3
+
+218.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1747, IO: 0, Gen: 1824
+Increments - Comp: 8, IO: 0, Gen: 8
+
+219.Function: is_keyword
+Line: 1
+Totals - Comp: 1739, IO: 0, Gen: 1816
+Increments - Comp: 14, IO: 0, Gen: 15
+
+220.Function: my_strcmp
+Line: 1
+Totals - Comp: 1725, IO: 0, Gen: 1801
+Increments - Comp: 3, IO: 0, Gen: 2
+
+221.Function: my_strcmp
+Line: 1
+Totals - Comp: 1722, IO: 0, Gen: 1799
+Increments - Comp: 3, IO: 0, Gen: 2
+
+222.Function: my_strcmp
+Line: 1
+Totals - Comp: 1719, IO: 0, Gen: 1797
+Increments - Comp: 3, IO: 0, Gen: 2
+
+223.Function: my_strcmp
+Line: 1
+Totals - Comp: 1716, IO: 0, Gen: 1795
+Increments - Comp: 3, IO: 0, Gen: 2
+
+224.Function: my_strcmp
+Line: 1
+Totals - Comp: 1713, IO: 0, Gen: 1793
+Increments - Comp: 3, IO: 0, Gen: 2
+
+225.Function: my_strcmp
+Line: 1
+Totals - Comp: 1710, IO: 0, Gen: 1791
+Increments - Comp: 3, IO: 0, Gen: 2
+
+226.Function: my_strcmp
+Line: 1
+Totals - Comp: 1707, IO: 0, Gen: 1789
+Increments - Comp: 3, IO: 0, Gen: 2
+
+227.Function: my_strlen
+Line: 1
+Totals - Comp: 1704, IO: 0, Gen: 1787
+Increments - Comp: 1, IO: 0, Gen: 2
+
+228.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1703, IO: 0, Gen: 1785
+Increments - Comp: 8, IO: 0, Gen: 8
+
+229.Function: is_keyword
+Line: 1
+Totals - Comp: 1695, IO: 0, Gen: 1777
+Increments - Comp: 14, IO: 0, Gen: 15
+
+230.Function: my_strcmp
+Line: 1
+Totals - Comp: 1681, IO: 0, Gen: 1762
+Increments - Comp: 3, IO: 0, Gen: 2
+
+231.Function: my_strcmp
+Line: 1
+Totals - Comp: 1678, IO: 0, Gen: 1760
+Increments - Comp: 3, IO: 0, Gen: 2
+
+232.Function: my_strcmp
+Line: 1
+Totals - Comp: 1675, IO: 0, Gen: 1758
+Increments - Comp: 3, IO: 0, Gen: 2
+
+233.Function: my_strcmp
+Line: 1
+Totals - Comp: 1672, IO: 0, Gen: 1756
+Increments - Comp: 3, IO: 0, Gen: 2
+
+234.Function: my_strcmp
+Line: 1
+Totals - Comp: 1669, IO: 0, Gen: 1754
+Increments - Comp: 3, IO: 0, Gen: 2
+
+235.Function: my_strcmp
+Line: 1
+Totals - Comp: 1666, IO: 0, Gen: 1752
+Increments - Comp: 3, IO: 0, Gen: 2
+
+236.Function: my_strcmp
+Line: 1
+Totals - Comp: 1663, IO: 0, Gen: 1750
+Increments - Comp: 3, IO: 0, Gen: 2
+
+237.Function: my_strlen
+Line: 1
+Totals - Comp: 1660, IO: 0, Gen: 1748
+Increments - Comp: 0, IO: 0, Gen: 1
+
+238.Function: categorize_token
+Line: 1
+Totals - Comp: 1660, IO: 0, Gen: 1747
+Increments - Comp: 3, IO: 0, Gen: 0
+
+239.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1657, IO: 0, Gen: 1747
+Increments - Comp: 1, IO: 0, Gen: 1
+
+240.Function: categorize_token
+Line: 1
+Totals - Comp: 1656, IO: 0, Gen: 1746
+Increments - Comp: 4, IO: 0, Gen: 5
+
+241.Function: my_strcpy
+Line: 1
+Totals - Comp: 1652, IO: 0, Gen: 1741
+Increments - Comp: 11, IO: 0, Gen: 35
+
+242.Function: is_keyword
+Line: 1
+Totals - Comp: 1641, IO: 0, Gen: 1706
+Increments - Comp: 10, IO: 0, Gen: 11
+
+243.Function: my_strcmp
+Line: 1
+Totals - Comp: 1631, IO: 0, Gen: 1695
+Increments - Comp: 12, IO: 0, Gen: 10
+
+244.Function: my_strcmp
+Line: 1
+Totals - Comp: 1619, IO: 0, Gen: 1685
+Increments - Comp: 3, IO: 0, Gen: 2
+
+245.Function: my_strcmp
+Line: 1
+Totals - Comp: 1616, IO: 0, Gen: 1683
+Increments - Comp: 3, IO: 0, Gen: 2
+
+246.Function: my_strcmp
+Line: 1
+Totals - Comp: 1613, IO: 0, Gen: 1681
+Increments - Comp: 3, IO: 0, Gen: 2
+
+247.Function: my_strcmp
+Line: 1
+Totals - Comp: 1610, IO: 0, Gen: 1679
+Increments - Comp: 3, IO: 0, Gen: 2
+
+248.Function: my_strcpy
+Line: 1
+Totals - Comp: 1607, IO: 0, Gen: 1677
+Increments - Comp: 4, IO: 0, Gen: 14
+
+249.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1603, IO: 0, Gen: 1663
+Increments - Comp: 8, IO: 0, Gen: 8
+
+250.Function: is_keyword
+Line: 1
+Totals - Comp: 1595, IO: 0, Gen: 1655
+Increments - Comp: 10, IO: 0, Gen: 11
+
+251.Function: my_strcmp
+Line: 1
+Totals - Comp: 1585, IO: 0, Gen: 1644
+Increments - Comp: 12, IO: 0, Gen: 10
+
+252.Function: my_strcmp
+Line: 1
+Totals - Comp: 1573, IO: 0, Gen: 1634
+Increments - Comp: 3, IO: 0, Gen: 2
+
+253.Function: my_strcmp
+Line: 1
+Totals - Comp: 1570, IO: 0, Gen: 1632
+Increments - Comp: 3, IO: 0, Gen: 2
+
+254.Function: my_strcmp
+Line: 1
+Totals - Comp: 1567, IO: 0, Gen: 1630
+Increments - Comp: 3, IO: 0, Gen: 2
+
+255.Function: my_strcmp
+Line: 1
+Totals - Comp: 1564, IO: 0, Gen: 1628
+Increments - Comp: 3, IO: 0, Gen: 2
+
+256.Function: my_strlen
+Line: 1
+Totals - Comp: 1561, IO: 0, Gen: 1626
+Increments - Comp: 3, IO: 0, Gen: 4
+
+257.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1558, IO: 0, Gen: 1622
+Increments - Comp: 8, IO: 0, Gen: 8
+
+258.Function: is_keyword
+Line: 1
+Totals - Comp: 1550, IO: 0, Gen: 1614
+Increments - Comp: 14, IO: 0, Gen: 15
+
+259.Function: my_strcmp
+Line: 1
+Totals - Comp: 1536, IO: 0, Gen: 1599
+Increments - Comp: 3, IO: 0, Gen: 2
+
+260.Function: my_strcmp
+Line: 1
+Totals - Comp: 1533, IO: 0, Gen: 1597
+Increments - Comp: 3, IO: 0, Gen: 2
+
+261.Function: my_strcmp
+Line: 1
+Totals - Comp: 1530, IO: 0, Gen: 1595
+Increments - Comp: 9, IO: 0, Gen: 8
+
+262.Function: my_strcmp
+Line: 1
+Totals - Comp: 1521, IO: 0, Gen: 1587
+Increments - Comp: 3, IO: 0, Gen: 2
+
+263.Function: my_strcmp
+Line: 1
+Totals - Comp: 1518, IO: 0, Gen: 1585
+Increments - Comp: 3, IO: 0, Gen: 2
+
+264.Function: my_strcmp
+Line: 1
+Totals - Comp: 1515, IO: 0, Gen: 1583
+Increments - Comp: 3, IO: 0, Gen: 2
+
+265.Function: my_strcmp
+Line: 1
+Totals - Comp: 1512, IO: 0, Gen: 1581
+Increments - Comp: 3, IO: 0, Gen: 2
+
+266.Function: my_strlen
+Line: 1
+Totals - Comp: 1509, IO: 0, Gen: 1579
+Increments - Comp: 2, IO: 0, Gen: 3
+
+267.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1507, IO: 0, Gen: 1576
+Increments - Comp: 8, IO: 0, Gen: 8
+
+268.Function: is_keyword
+Line: 1
+Totals - Comp: 1499, IO: 0, Gen: 1568
+Increments - Comp: 14, IO: 0, Gen: 15
+
+269.Function: my_strcmp
+Line: 1
+Totals - Comp: 1485, IO: 0, Gen: 1553
+Increments - Comp: 3, IO: 0, Gen: 2
+
+270.Function: my_strcmp
+Line: 1
+Totals - Comp: 1482, IO: 0, Gen: 1551
+Increments - Comp: 3, IO: 0, Gen: 2
+
+271.Function: my_strcmp
+Line: 1
+Totals - Comp: 1479, IO: 0, Gen: 1549
+Increments - Comp: 6, IO: 0, Gen: 6
+
+272.Function: my_strcmp
+Line: 1
+Totals - Comp: 1473, IO: 0, Gen: 1543
+Increments - Comp: 3, IO: 0, Gen: 2
+
+273.Function: my_strcmp
+Line: 1
+Totals - Comp: 1470, IO: 0, Gen: 1541
+Increments - Comp: 3, IO: 0, Gen: 2
+
+274.Function: my_strcmp
+Line: 1
+Totals - Comp: 1467, IO: 0, Gen: 1539
+Increments - Comp: 3, IO: 0, Gen: 2
+
+275.Function: my_strcmp
+Line: 1
+Totals - Comp: 1464, IO: 0, Gen: 1537
+Increments - Comp: 3, IO: 0, Gen: 2
+
+276.Function: my_strlen
+Line: 1
+Totals - Comp: 1461, IO: 0, Gen: 1535
+Increments - Comp: 1, IO: 0, Gen: 2
+
+277.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1460, IO: 0, Gen: 1533
+Increments - Comp: 8, IO: 0, Gen: 8
+
+278.Function: is_keyword
+Line: 1
+Totals - Comp: 1452, IO: 0, Gen: 1525
+Increments - Comp: 14, IO: 0, Gen: 15
+
+279.Function: my_strcmp
+Line: 1
+Totals - Comp: 1438, IO: 0, Gen: 1510
+Increments - Comp: 3, IO: 0, Gen: 2
+
+280.Function: my_strcmp
+Line: 1
+Totals - Comp: 1435, IO: 0, Gen: 1508
+Increments - Comp: 3, IO: 0, Gen: 2
+
+281.Function: my_strcmp
+Line: 1
+Totals - Comp: 1432, IO: 0, Gen: 1506
+Increments - Comp: 3, IO: 0, Gen: 4
+
+282.Function: my_strcmp
+Line: 1
+Totals - Comp: 1429, IO: 0, Gen: 1502
+Increments - Comp: 3, IO: 0, Gen: 2
+
+283.Function: my_strcmp
+Line: 1
+Totals - Comp: 1426, IO: 0, Gen: 1500
+Increments - Comp: 3, IO: 0, Gen: 2
+
+284.Function: my_strcmp
+Line: 1
+Totals - Comp: 1423, IO: 0, Gen: 1498
+Increments - Comp: 3, IO: 0, Gen: 2
+
+285.Function: my_strcmp
+Line: 1
+Totals - Comp: 1420, IO: 0, Gen: 1496
+Increments - Comp: 3, IO: 0, Gen: 2
+
+286.Function: my_strlen
+Line: 1
+Totals - Comp: 1417, IO: 0, Gen: 1494
+Increments - Comp: 0, IO: 0, Gen: 1
+
+287.Function: categorize_token
+Line: 1
+Totals - Comp: 1417, IO: 0, Gen: 1493
+Increments - Comp: 3, IO: 0, Gen: 0
+
+288.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1414, IO: 0, Gen: 1493
+Increments - Comp: 1, IO: 0, Gen: 1
+
+289.Function: categorize_token
+Line: 1
+Totals - Comp: 1413, IO: 0, Gen: 1492
+Increments - Comp: 4, IO: 0, Gen: 5
+
+290.Function: my_strcpy
+Line: 1
+Totals - Comp: 1409, IO: 0, Gen: 1487
+Increments - Comp: 11, IO: 0, Gen: 35
+
+291.Function: is_keyword
+Line: 1
+Totals - Comp: 1398, IO: 0, Gen: 1452
+Increments - Comp: 12, IO: 0, Gen: 13
+
+292.Function: my_strcmp
+Line: 1
+Totals - Comp: 1386, IO: 0, Gen: 1439
+Increments - Comp: 12, IO: 0, Gen: 10
+
+293.Function: my_strcmp
+Line: 1
+Totals - Comp: 1374, IO: 0, Gen: 1429
+Increments - Comp: 3, IO: 0, Gen: 2
+
+294.Function: my_strcmp
+Line: 1
+Totals - Comp: 1371, IO: 0, Gen: 1427
+Increments - Comp: 3, IO: 0, Gen: 2
+
+295.Function: my_strcmp
+Line: 1
+Totals - Comp: 1368, IO: 0, Gen: 1425
+Increments - Comp: 3, IO: 0, Gen: 2
+
+296.Function: my_strcmp
+Line: 1
+Totals - Comp: 1365, IO: 0, Gen: 1423
+Increments - Comp: 3, IO: 0, Gen: 2
+
+297.Function: my_strcmp
+Line: 1
+Totals - Comp: 1362, IO: 0, Gen: 1421
+Increments - Comp: 3, IO: 0, Gen: 2
+
+298.Function: my_strcpy
+Line: 1
+Totals - Comp: 1359, IO: 0, Gen: 1419
+Increments - Comp: 4, IO: 0, Gen: 14
+
+299.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1355, IO: 0, Gen: 1405
+Increments - Comp: 8, IO: 0, Gen: 8
+
+300.Function: is_keyword
+Line: 1
+Totals - Comp: 1347, IO: 0, Gen: 1397
+Increments - Comp: 12, IO: 0, Gen: 13
+
+301.Function: my_strcmp
+Line: 1
+Totals - Comp: 1335, IO: 0, Gen: 1384
+Increments - Comp: 12, IO: 0, Gen: 10
+
+302.Function: my_strcmp
+Line: 1
+Totals - Comp: 1323, IO: 0, Gen: 1374
+Increments - Comp: 3, IO: 0, Gen: 2
+
+303.Function: my_strcmp
+Line: 1
+Totals - Comp: 1320, IO: 0, Gen: 1372
+Increments - Comp: 3, IO: 0, Gen: 2
+
+304.Function: my_strcmp
+Line: 1
+Totals - Comp: 1317, IO: 0, Gen: 1370
+Increments - Comp: 3, IO: 0, Gen: 2
+
+305.Function: my_strcmp
+Line: 1
+Totals - Comp: 1314, IO: 0, Gen: 1368
+Increments - Comp: 3, IO: 0, Gen: 2
+
+306.Function: my_strcmp
+Line: 1
+Totals - Comp: 1311, IO: 0, Gen: 1366
+Increments - Comp: 3, IO: 0, Gen: 2
+
+307.Function: my_strlen
+Line: 1
+Totals - Comp: 1308, IO: 0, Gen: 1364
+Increments - Comp: 3, IO: 0, Gen: 4
+
+308.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1305, IO: 0, Gen: 1360
+Increments - Comp: 8, IO: 0, Gen: 8
+
+309.Function: is_keyword
+Line: 1
+Totals - Comp: 1297, IO: 0, Gen: 1352
+Increments - Comp: 14, IO: 0, Gen: 15
+
+310.Function: my_strcmp
+Line: 1
+Totals - Comp: 1283, IO: 0, Gen: 1337
+Increments - Comp: 3, IO: 0, Gen: 2
+
+311.Function: my_strcmp
+Line: 1
+Totals - Comp: 1280, IO: 0, Gen: 1335
+Increments - Comp: 9, IO: 0, Gen: 8
+
+312.Function: my_strcmp
+Line: 1
+Totals - Comp: 1271, IO: 0, Gen: 1327
+Increments - Comp: 3, IO: 0, Gen: 2
+
+313.Function: my_strcmp
+Line: 1
+Totals - Comp: 1268, IO: 0, Gen: 1325
+Increments - Comp: 3, IO: 0, Gen: 2
+
+314.Function: my_strcmp
+Line: 1
+Totals - Comp: 1265, IO: 0, Gen: 1323
+Increments - Comp: 3, IO: 0, Gen: 2
+
+315.Function: my_strcmp
+Line: 1
+Totals - Comp: 1262, IO: 0, Gen: 1321
+Increments - Comp: 3, IO: 0, Gen: 2
+
+316.Function: my_strcmp
+Line: 1
+Totals - Comp: 1259, IO: 0, Gen: 1319
+Increments - Comp: 3, IO: 0, Gen: 2
+
+317.Function: my_strlen
+Line: 1
+Totals - Comp: 1256, IO: 0, Gen: 1317
+Increments - Comp: 2, IO: 0, Gen: 3
+
+318.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1254, IO: 0, Gen: 1314
+Increments - Comp: 8, IO: 0, Gen: 8
+
+319.Function: is_keyword
+Line: 1
+Totals - Comp: 1246, IO: 0, Gen: 1306
+Increments - Comp: 14, IO: 0, Gen: 15
+
+320.Function: my_strcmp
+Line: 1
+Totals - Comp: 1232, IO: 0, Gen: 1291
+Increments - Comp: 3, IO: 0, Gen: 2
+
+321.Function: my_strcmp
+Line: 1
+Totals - Comp: 1229, IO: 0, Gen: 1289
+Increments - Comp: 6, IO: 0, Gen: 6
+
+322.Function: my_strcmp
+Line: 1
+Totals - Comp: 1223, IO: 0, Gen: 1283
+Increments - Comp: 3, IO: 0, Gen: 2
+
+323.Function: my_strcmp
+Line: 1
+Totals - Comp: 1220, IO: 0, Gen: 1281
+Increments - Comp: 3, IO: 0, Gen: 2
+
+324.Function: my_strcmp
+Line: 1
+Totals - Comp: 1217, IO: 0, Gen: 1279
+Increments - Comp: 3, IO: 0, Gen: 2
+
+325.Function: my_strcmp
+Line: 1
+Totals - Comp: 1214, IO: 0, Gen: 1277
+Increments - Comp: 3, IO: 0, Gen: 2
+
+326.Function: my_strcmp
+Line: 1
+Totals - Comp: 1211, IO: 0, Gen: 1275
+Increments - Comp: 3, IO: 0, Gen: 2
+
+327.Function: my_strlen
+Line: 1
+Totals - Comp: 1208, IO: 0, Gen: 1273
+Increments - Comp: 1, IO: 0, Gen: 2
+
+328.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1207, IO: 0, Gen: 1271
+Increments - Comp: 8, IO: 0, Gen: 8
+
+329.Function: is_keyword
+Line: 1
+Totals - Comp: 1199, IO: 0, Gen: 1263
+Increments - Comp: 14, IO: 0, Gen: 15
+
+330.Function: my_strcmp
+Line: 1
+Totals - Comp: 1185, IO: 0, Gen: 1248
+Increments - Comp: 3, IO: 0, Gen: 2
+
+331.Function: my_strcmp
+Line: 1
+Totals - Comp: 1182, IO: 0, Gen: 1246
+Increments - Comp: 3, IO: 0, Gen: 4
+
+332.Function: my_strcmp
+Line: 1
+Totals - Comp: 1179, IO: 0, Gen: 1242
+Increments - Comp: 3, IO: 0, Gen: 2
+
+333.Function: my_strcmp
+Line: 1
+Totals - Comp: 1176, IO: 0, Gen: 1240
+Increments - Comp: 3, IO: 0, Gen: 2
+
+334.Function: my_strcmp
+Line: 1
+Totals - Comp: 1173, IO: 0, Gen: 1238
+Increments - Comp: 3, IO: 0, Gen: 2
+
+335.Function: my_strcmp
+Line: 1
+Totals - Comp: 1170, IO: 0, Gen: 1236
+Increments - Comp: 3, IO: 0, Gen: 2
+
+336.Function: my_strcmp
+Line: 1
+Totals - Comp: 1167, IO: 0, Gen: 1234
+Increments - Comp: 3, IO: 0, Gen: 2
+
+337.Function: my_strlen
+Line: 1
+Totals - Comp: 1164, IO: 0, Gen: 1232
+Increments - Comp: 0, IO: 0, Gen: 1
+
+338.Function: categorize_token
+Line: 1
+Totals - Comp: 1164, IO: 0, Gen: 1231
+Increments - Comp: 3, IO: 0, Gen: 0
+
+339.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1161, IO: 0, Gen: 1231
+Increments - Comp: 1, IO: 0, Gen: 1
+
+340.Function: categorize_token
+Line: 1
+Totals - Comp: 1160, IO: 0, Gen: 1230
+Increments - Comp: 4, IO: 0, Gen: 5
+
+341.Function: my_strcpy
+Line: 1
+Totals - Comp: 1156, IO: 0, Gen: 1225
+Increments - Comp: 11, IO: 0, Gen: 35
+
+342.Function: is_keyword
+Line: 1
+Totals - Comp: 1145, IO: 0, Gen: 1190
+Increments - Comp: 14, IO: 0, Gen: 15
+
+343.Function: my_strcmp
+Line: 1
+Totals - Comp: 1131, IO: 0, Gen: 1175
+Increments - Comp: 9, IO: 0, Gen: 8
+
+344.Function: my_strcmp
+Line: 1
+Totals - Comp: 1122, IO: 0, Gen: 1167
+Increments - Comp: 3, IO: 0, Gen: 2
+
+345.Function: my_strcmp
+Line: 1
+Totals - Comp: 1119, IO: 0, Gen: 1165
+Increments - Comp: 3, IO: 0, Gen: 2
+
+346.Function: my_strcmp
+Line: 1
+Totals - Comp: 1116, IO: 0, Gen: 1163
+Increments - Comp: 3, IO: 0, Gen: 2
+
+347.Function: my_strcmp
+Line: 1
+Totals - Comp: 1113, IO: 0, Gen: 1161
+Increments - Comp: 3, IO: 0, Gen: 2
+
+348.Function: my_strcmp
+Line: 1
+Totals - Comp: 1110, IO: 0, Gen: 1159
+Increments - Comp: 3, IO: 0, Gen: 2
+
+349.Function: my_strcmp
+Line: 1
+Totals - Comp: 1107, IO: 0, Gen: 1157
+Increments - Comp: 6, IO: 0, Gen: 4
+
+350.Function: my_strcpy
+Line: 1
+Totals - Comp: 1101, IO: 0, Gen: 1153
+Increments - Comp: 3, IO: 0, Gen: 11
+
+351.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1098, IO: 0, Gen: 1142
+Increments - Comp: 8, IO: 0, Gen: 8
+
+352.Function: is_keyword
+Line: 1
+Totals - Comp: 1090, IO: 0, Gen: 1134
+Increments - Comp: 14, IO: 0, Gen: 15
+
+353.Function: my_strcmp
+Line: 1
+Totals - Comp: 1076, IO: 0, Gen: 1119
+Increments - Comp: 9, IO: 0, Gen: 8
+
+354.Function: my_strcmp
+Line: 1
+Totals - Comp: 1067, IO: 0, Gen: 1111
+Increments - Comp: 3, IO: 0, Gen: 2
+
+355.Function: my_strcmp
+Line: 1
+Totals - Comp: 1064, IO: 0, Gen: 1109
+Increments - Comp: 3, IO: 0, Gen: 2
+
+356.Function: my_strcmp
+Line: 1
+Totals - Comp: 1061, IO: 0, Gen: 1107
+Increments - Comp: 3, IO: 0, Gen: 2
+
+357.Function: my_strcmp
+Line: 1
+Totals - Comp: 1058, IO: 0, Gen: 1105
+Increments - Comp: 3, IO: 0, Gen: 2
+
+358.Function: my_strcmp
+Line: 1
+Totals - Comp: 1055, IO: 0, Gen: 1103
+Increments - Comp: 3, IO: 0, Gen: 2
+
+359.Function: my_strcmp
+Line: 1
+Totals - Comp: 1052, IO: 0, Gen: 1101
+Increments - Comp: 6, IO: 0, Gen: 4
+
+360.Function: my_strlen
+Line: 1
+Totals - Comp: 1046, IO: 0, Gen: 1097
+Increments - Comp: 2, IO: 0, Gen: 3
+
+361.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 1044, IO: 0, Gen: 1094
+Increments - Comp: 8, IO: 0, Gen: 8
+
+362.Function: is_keyword
+Line: 1
+Totals - Comp: 1036, IO: 0, Gen: 1086
+Increments - Comp: 14, IO: 0, Gen: 15
+
+363.Function: my_strcmp
+Line: 1
+Totals - Comp: 1022, IO: 0, Gen: 1071
+Increments - Comp: 6, IO: 0, Gen: 6
+
+364.Function: my_strcmp
+Line: 1
+Totals - Comp: 1016, IO: 0, Gen: 1065
+Increments - Comp: 3, IO: 0, Gen: 2
+
+365.Function: my_strcmp
+Line: 1
+Totals - Comp: 1013, IO: 0, Gen: 1063
+Increments - Comp: 3, IO: 0, Gen: 2
+
+366.Function: my_strcmp
+Line: 1
+Totals - Comp: 1010, IO: 0, Gen: 1061
+Increments - Comp: 3, IO: 0, Gen: 2
+
+367.Function: my_strcmp
+Line: 1
+Totals - Comp: 1007, IO: 0, Gen: 1059
+Increments - Comp: 3, IO: 0, Gen: 2
+
+368.Function: my_strcmp
+Line: 1
+Totals - Comp: 1004, IO: 0, Gen: 1057
+Increments - Comp: 3, IO: 0, Gen: 2
+
+369.Function: my_strcmp
+Line: 1
+Totals - Comp: 1001, IO: 0, Gen: 1055
+Increments - Comp: 6, IO: 0, Gen: 4
+
+370.Function: my_strlen
+Line: 1
+Totals - Comp: 995, IO: 0, Gen: 1051
+Increments - Comp: 1, IO: 0, Gen: 2
+
+371.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 994, IO: 0, Gen: 1049
+Increments - Comp: 8, IO: 0, Gen: 8
+
+372.Function: is_keyword
+Line: 1
+Totals - Comp: 986, IO: 0, Gen: 1041
+Increments - Comp: 14, IO: 0, Gen: 15
+
+373.Function: my_strcmp
+Line: 1
+Totals - Comp: 972, IO: 0, Gen: 1026
+Increments - Comp: 3, IO: 0, Gen: 4
+
+374.Function: my_strcmp
+Line: 1
+Totals - Comp: 969, IO: 0, Gen: 1022
+Increments - Comp: 3, IO: 0, Gen: 2
+
+375.Function: my_strcmp
+Line: 1
+Totals - Comp: 966, IO: 0, Gen: 1020
+Increments - Comp: 3, IO: 0, Gen: 2
+
+376.Function: my_strcmp
+Line: 1
+Totals - Comp: 963, IO: 0, Gen: 1018
+Increments - Comp: 3, IO: 0, Gen: 2
+
+377.Function: my_strcmp
+Line: 1
+Totals - Comp: 960, IO: 0, Gen: 1016
+Increments - Comp: 3, IO: 0, Gen: 2
+
+378.Function: my_strcmp
+Line: 1
+Totals - Comp: 957, IO: 0, Gen: 1014
+Increments - Comp: 3, IO: 0, Gen: 2
+
+379.Function: my_strcmp
+Line: 1
+Totals - Comp: 954, IO: 0, Gen: 1012
+Increments - Comp: 3, IO: 0, Gen: 4
+
+380.Function: my_strlen
+Line: 1
+Totals - Comp: 951, IO: 0, Gen: 1008
+Increments - Comp: 0, IO: 0, Gen: 1
+
+381.Function: categorize_token
+Line: 1
+Totals - Comp: 951, IO: 0, Gen: 1007
+Increments - Comp: 3, IO: 0, Gen: 0
+
+382.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 948, IO: 0, Gen: 1007
+Increments - Comp: 1, IO: 0, Gen: 1
+
+383.Function: categorize_token
+Line: 1
+Totals - Comp: 947, IO: 0, Gen: 1006
+Increments - Comp: 4, IO: 0, Gen: 5
+
+384.Function: my_strcpy
+Line: 1
+Totals - Comp: 943, IO: 0, Gen: 1001
+Increments - Comp: 11, IO: 0, Gen: 35
+
+385.Function: is_keyword
+Line: 1
+Totals - Comp: 932, IO: 0, Gen: 966
+Increments - Comp: 8, IO: 0, Gen: 9
+
+386.Function: my_strcmp
+Line: 1
+Totals - Comp: 924, IO: 0, Gen: 957
+Increments - Comp: 18, IO: 0, Gen: 14
+
+387.Function: my_strcmp
+Line: 1
+Totals - Comp: 906, IO: 0, Gen: 943
+Increments - Comp: 3, IO: 0, Gen: 2
+
+388.Function: my_strcmp
+Line: 1
+Totals - Comp: 903, IO: 0, Gen: 941
+Increments - Comp: 3, IO: 0, Gen: 2
+
+389.Function: my_strcmp
+Line: 1
+Totals - Comp: 900, IO: 0, Gen: 939
+Increments - Comp: 3, IO: 0, Gen: 2
+
+390.Function: my_strcpy
+Line: 1
+Totals - Comp: 897, IO: 0, Gen: 937
+Increments - Comp: 6, IO: 0, Gen: 20
+
+391.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 891, IO: 0, Gen: 917
+Increments - Comp: 8, IO: 0, Gen: 8
+
+392.Function: is_keyword
+Line: 1
+Totals - Comp: 883, IO: 0, Gen: 909
+Increments - Comp: 8, IO: 0, Gen: 9
+
+393.Function: my_strcmp
+Line: 1
+Totals - Comp: 875, IO: 0, Gen: 900
+Increments - Comp: 18, IO: 0, Gen: 14
+
+394.Function: my_strcmp
+Line: 1
+Totals - Comp: 857, IO: 0, Gen: 886
+Increments - Comp: 3, IO: 0, Gen: 2
+
+395.Function: my_strcmp
+Line: 1
+Totals - Comp: 854, IO: 0, Gen: 884
+Increments - Comp: 3, IO: 0, Gen: 2
+
+396.Function: my_strcmp
+Line: 1
+Totals - Comp: 851, IO: 0, Gen: 882
+Increments - Comp: 3, IO: 0, Gen: 2
+
+397.Function: my_strlen
+Line: 1
+Totals - Comp: 848, IO: 0, Gen: 880
+Increments - Comp: 5, IO: 0, Gen: 6
+
+398.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 843, IO: 0, Gen: 874
+Increments - Comp: 8, IO: 0, Gen: 8
+
+399.Function: is_keyword
+Line: 1
+Totals - Comp: 835, IO: 0, Gen: 866
+Increments - Comp: 14, IO: 0, Gen: 15
+
+400.Function: my_strcmp
+Line: 1
+Totals - Comp: 821, IO: 0, Gen: 851
+Increments - Comp: 3, IO: 0, Gen: 2
+
+401.Function: my_strcmp
+Line: 1
+Totals - Comp: 818, IO: 0, Gen: 849
+Increments - Comp: 3, IO: 0, Gen: 2
+
+402.Function: my_strcmp
+Line: 1
+Totals - Comp: 815, IO: 0, Gen: 847
+Increments - Comp: 3, IO: 0, Gen: 2
+
+403.Function: my_strcmp
+Line: 1
+Totals - Comp: 812, IO: 0, Gen: 845
+Increments - Comp: 15, IO: 0, Gen: 12
+
+404.Function: my_strcmp
+Line: 1
+Totals - Comp: 797, IO: 0, Gen: 833
+Increments - Comp: 3, IO: 0, Gen: 2
+
+405.Function: my_strcmp
+Line: 1
+Totals - Comp: 794, IO: 0, Gen: 831
+Increments - Comp: 3, IO: 0, Gen: 2
+
+406.Function: my_strcmp
+Line: 1
+Totals - Comp: 791, IO: 0, Gen: 829
+Increments - Comp: 3, IO: 0, Gen: 2
+
+407.Function: my_strlen
+Line: 1
+Totals - Comp: 788, IO: 0, Gen: 827
+Increments - Comp: 4, IO: 0, Gen: 5
+
+408.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 784, IO: 0, Gen: 822
+Increments - Comp: 8, IO: 0, Gen: 8
+
+409.Function: is_keyword
+Line: 1
+Totals - Comp: 776, IO: 0, Gen: 814
+Increments - Comp: 14, IO: 0, Gen: 15
+
+410.Function: my_strcmp
+Line: 1
+Totals - Comp: 762, IO: 0, Gen: 799
+Increments - Comp: 3, IO: 0, Gen: 2
+
+411.Function: my_strcmp
+Line: 1
+Totals - Comp: 759, IO: 0, Gen: 797
+Increments - Comp: 3, IO: 0, Gen: 2
+
+412.Function: my_strcmp
+Line: 1
+Totals - Comp: 756, IO: 0, Gen: 795
+Increments - Comp: 3, IO: 0, Gen: 2
+
+413.Function: my_strcmp
+Line: 1
+Totals - Comp: 753, IO: 0, Gen: 793
+Increments - Comp: 12, IO: 0, Gen: 10
+
+414.Function: my_strcmp
+Line: 1
+Totals - Comp: 741, IO: 0, Gen: 783
+Increments - Comp: 3, IO: 0, Gen: 2
+
+415.Function: my_strcmp
+Line: 1
+Totals - Comp: 738, IO: 0, Gen: 781
+Increments - Comp: 3, IO: 0, Gen: 2
+
+416.Function: my_strcmp
+Line: 1
+Totals - Comp: 735, IO: 0, Gen: 779
+Increments - Comp: 3, IO: 0, Gen: 2
+
+417.Function: my_strlen
+Line: 1
+Totals - Comp: 732, IO: 0, Gen: 777
+Increments - Comp: 3, IO: 0, Gen: 4
+
+418.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 729, IO: 0, Gen: 773
+Increments - Comp: 8, IO: 0, Gen: 8
+
+419.Function: is_keyword
+Line: 1
+Totals - Comp: 721, IO: 0, Gen: 765
+Increments - Comp: 14, IO: 0, Gen: 15
+
+420.Function: my_strcmp
+Line: 1
+Totals - Comp: 707, IO: 0, Gen: 750
+Increments - Comp: 3, IO: 0, Gen: 2
+
+421.Function: my_strcmp
+Line: 1
+Totals - Comp: 704, IO: 0, Gen: 748
+Increments - Comp: 3, IO: 0, Gen: 2
+
+422.Function: my_strcmp
+Line: 1
+Totals - Comp: 701, IO: 0, Gen: 746
+Increments - Comp: 3, IO: 0, Gen: 2
+
+423.Function: my_strcmp
+Line: 1
+Totals - Comp: 698, IO: 0, Gen: 744
+Increments - Comp: 9, IO: 0, Gen: 8
+
+424.Function: my_strcmp
+Line: 1
+Totals - Comp: 689, IO: 0, Gen: 736
+Increments - Comp: 3, IO: 0, Gen: 2
+
+425.Function: my_strcmp
+Line: 1
+Totals - Comp: 686, IO: 0, Gen: 734
+Increments - Comp: 3, IO: 0, Gen: 2
+
+426.Function: my_strcmp
+Line: 1
+Totals - Comp: 683, IO: 0, Gen: 732
+Increments - Comp: 3, IO: 0, Gen: 2
+
+427.Function: my_strlen
+Line: 1
+Totals - Comp: 680, IO: 0, Gen: 730
+Increments - Comp: 2, IO: 0, Gen: 3
+
+428.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 678, IO: 0, Gen: 727
+Increments - Comp: 8, IO: 0, Gen: 8
+
+429.Function: is_keyword
+Line: 1
+Totals - Comp: 670, IO: 0, Gen: 719
+Increments - Comp: 14, IO: 0, Gen: 15
+
+430.Function: my_strcmp
+Line: 1
+Totals - Comp: 656, IO: 0, Gen: 704
+Increments - Comp: 3, IO: 0, Gen: 2
+
+431.Function: my_strcmp
+Line: 1
+Totals - Comp: 653, IO: 0, Gen: 702
+Increments - Comp: 3, IO: 0, Gen: 2
+
+432.Function: my_strcmp
+Line: 1
+Totals - Comp: 650, IO: 0, Gen: 700
+Increments - Comp: 3, IO: 0, Gen: 2
+
+433.Function: my_strcmp
+Line: 1
+Totals - Comp: 647, IO: 0, Gen: 698
+Increments - Comp: 6, IO: 0, Gen: 6
+
+434.Function: my_strcmp
+Line: 1
+Totals - Comp: 641, IO: 0, Gen: 692
+Increments - Comp: 3, IO: 0, Gen: 2
+
+435.Function: my_strcmp
+Line: 1
+Totals - Comp: 638, IO: 0, Gen: 690
+Increments - Comp: 3, IO: 0, Gen: 2
+
+436.Function: my_strcmp
+Line: 1
+Totals - Comp: 635, IO: 0, Gen: 688
+Increments - Comp: 3, IO: 0, Gen: 2
+
+437.Function: my_strlen
+Line: 1
+Totals - Comp: 632, IO: 0, Gen: 686
+Increments - Comp: 1, IO: 0, Gen: 2
+
+438.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 631, IO: 0, Gen: 684
+Increments - Comp: 8, IO: 0, Gen: 8
+
+439.Function: is_keyword
+Line: 1
+Totals - Comp: 623, IO: 0, Gen: 676
+Increments - Comp: 14, IO: 0, Gen: 15
+
+440.Function: my_strcmp
+Line: 1
+Totals - Comp: 609, IO: 0, Gen: 661
+Increments - Comp: 3, IO: 0, Gen: 2
+
+441.Function: my_strcmp
+Line: 1
+Totals - Comp: 606, IO: 0, Gen: 659
+Increments - Comp: 3, IO: 0, Gen: 2
+
+442.Function: my_strcmp
+Line: 1
+Totals - Comp: 603, IO: 0, Gen: 657
+Increments - Comp: 3, IO: 0, Gen: 2
+
+443.Function: my_strcmp
+Line: 1
+Totals - Comp: 600, IO: 0, Gen: 655
+Increments - Comp: 3, IO: 0, Gen: 4
+
+444.Function: my_strcmp
+Line: 1
+Totals - Comp: 597, IO: 0, Gen: 651
+Increments - Comp: 3, IO: 0, Gen: 2
+
+445.Function: my_strcmp
+Line: 1
+Totals - Comp: 594, IO: 0, Gen: 649
+Increments - Comp: 3, IO: 0, Gen: 2
+
+446.Function: my_strcmp
+Line: 1
+Totals - Comp: 591, IO: 0, Gen: 647
+Increments - Comp: 3, IO: 0, Gen: 2
+
+447.Function: my_strlen
+Line: 1
+Totals - Comp: 588, IO: 0, Gen: 645
+Increments - Comp: 0, IO: 0, Gen: 1
+
+448.Function: categorize_token
+Line: 1
+Totals - Comp: 588, IO: 0, Gen: 644
+Increments - Comp: 3, IO: 0, Gen: 0
+
+449.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 585, IO: 0, Gen: 644
+Increments - Comp: 1, IO: 0, Gen: 1
+
+450.Function: categorize_token
+Line: 1
+Totals - Comp: 584, IO: 0, Gen: 643
+Increments - Comp: 4, IO: 0, Gen: 5
+
+451.Function: my_strcpy
+Line: 1
+Totals - Comp: 580, IO: 0, Gen: 638
+Increments - Comp: 11, IO: 0, Gen: 35
+
+452.Function: is_keyword
+Line: 1
+Totals - Comp: 569, IO: 0, Gen: 603
+Increments - Comp: 6, IO: 0, Gen: 7
+
+453.Function: my_strcmp
+Line: 1
+Totals - Comp: 563, IO: 0, Gen: 596
+Increments - Comp: 15, IO: 0, Gen: 12
+
+454.Function: my_strcmp
+Line: 1
+Totals - Comp: 548, IO: 0, Gen: 584
+Increments - Comp: 3, IO: 0, Gen: 2
+
+455.Function: my_strcmp
+Line: 1
+Totals - Comp: 545, IO: 0, Gen: 582
+Increments - Comp: 3, IO: 0, Gen: 2
+
+456.Function: my_strcpy
+Line: 1
+Totals - Comp: 542, IO: 0, Gen: 580
+Increments - Comp: 5, IO: 0, Gen: 17
+
+457.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 537, IO: 0, Gen: 563
+Increments - Comp: 8, IO: 0, Gen: 8
+
+458.Function: is_keyword
+Line: 1
+Totals - Comp: 529, IO: 0, Gen: 555
+Increments - Comp: 6, IO: 0, Gen: 7
+
+459.Function: my_strcmp
+Line: 1
+Totals - Comp: 523, IO: 0, Gen: 548
+Increments - Comp: 15, IO: 0, Gen: 12
+
+460.Function: my_strcmp
+Line: 1
+Totals - Comp: 508, IO: 0, Gen: 536
+Increments - Comp: 3, IO: 0, Gen: 2
+
+461.Function: my_strcmp
+Line: 1
+Totals - Comp: 505, IO: 0, Gen: 534
+Increments - Comp: 3, IO: 0, Gen: 2
+
+462.Function: my_strlen
+Line: 1
+Totals - Comp: 502, IO: 0, Gen: 532
+Increments - Comp: 4, IO: 0, Gen: 5
+
+463.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 498, IO: 0, Gen: 527
+Increments - Comp: 8, IO: 0, Gen: 8
+
+464.Function: is_keyword
+Line: 1
+Totals - Comp: 490, IO: 0, Gen: 519
+Increments - Comp: 14, IO: 0, Gen: 15
+
+465.Function: my_strcmp
+Line: 1
+Totals - Comp: 476, IO: 0, Gen: 504
+Increments - Comp: 3, IO: 0, Gen: 2
+
+466.Function: my_strcmp
+Line: 1
+Totals - Comp: 473, IO: 0, Gen: 502
+Increments - Comp: 3, IO: 0, Gen: 2
+
+467.Function: my_strcmp
+Line: 1
+Totals - Comp: 470, IO: 0, Gen: 500
+Increments - Comp: 3, IO: 0, Gen: 2
+
+468.Function: my_strcmp
+Line: 1
+Totals - Comp: 467, IO: 0, Gen: 498
+Increments - Comp: 3, IO: 0, Gen: 2
+
+469.Function: my_strcmp
+Line: 1
+Totals - Comp: 464, IO: 0, Gen: 496
+Increments - Comp: 12, IO: 0, Gen: 10
+
+470.Function: my_strcmp
+Line: 1
+Totals - Comp: 452, IO: 0, Gen: 486
+Increments - Comp: 3, IO: 0, Gen: 2
+
+471.Function: my_strcmp
+Line: 1
+Totals - Comp: 449, IO: 0, Gen: 484
+Increments - Comp: 3, IO: 0, Gen: 2
+
+472.Function: my_strlen
+Line: 1
+Totals - Comp: 446, IO: 0, Gen: 482
+Increments - Comp: 3, IO: 0, Gen: 4
+
+473.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 443, IO: 0, Gen: 478
+Increments - Comp: 8, IO: 0, Gen: 8
+
+474.Function: is_keyword
+Line: 1
+Totals - Comp: 435, IO: 0, Gen: 470
+Increments - Comp: 14, IO: 0, Gen: 15
+
+475.Function: my_strcmp
+Line: 1
+Totals - Comp: 421, IO: 0, Gen: 455
+Increments - Comp: 3, IO: 0, Gen: 2
+
+476.Function: my_strcmp
+Line: 1
+Totals - Comp: 418, IO: 0, Gen: 453
+Increments - Comp: 3, IO: 0, Gen: 2
+
+477.Function: my_strcmp
+Line: 1
+Totals - Comp: 415, IO: 0, Gen: 451
+Increments - Comp: 3, IO: 0, Gen: 2
+
+478.Function: my_strcmp
+Line: 1
+Totals - Comp: 412, IO: 0, Gen: 449
+Increments - Comp: 3, IO: 0, Gen: 2
+
+479.Function: my_strcmp
+Line: 1
+Totals - Comp: 409, IO: 0, Gen: 447
+Increments - Comp: 9, IO: 0, Gen: 8
+
+480.Function: my_strcmp
+Line: 1
+Totals - Comp: 400, IO: 0, Gen: 439
+Increments - Comp: 3, IO: 0, Gen: 2
+
+481.Function: my_strcmp
+Line: 1
+Totals - Comp: 397, IO: 0, Gen: 437
+Increments - Comp: 3, IO: 0, Gen: 2
+
+482.Function: my_strlen
+Line: 1
+Totals - Comp: 394, IO: 0, Gen: 435
+Increments - Comp: 2, IO: 0, Gen: 3
+
+483.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 392, IO: 0, Gen: 432
+Increments - Comp: 8, IO: 0, Gen: 8
+
+484.Function: is_keyword
+Line: 1
+Totals - Comp: 384, IO: 0, Gen: 424
+Increments - Comp: 14, IO: 0, Gen: 15
+
+485.Function: my_strcmp
+Line: 1
+Totals - Comp: 370, IO: 0, Gen: 409
+Increments - Comp: 3, IO: 0, Gen: 2
+
+486.Function: my_strcmp
+Line: 1
+Totals - Comp: 367, IO: 0, Gen: 407
+Increments - Comp: 3, IO: 0, Gen: 2
+
+487.Function: my_strcmp
+Line: 1
+Totals - Comp: 364, IO: 0, Gen: 405
+Increments - Comp: 3, IO: 0, Gen: 2
+
+488.Function: my_strcmp
+Line: 1
+Totals - Comp: 361, IO: 0, Gen: 403
+Increments - Comp: 3, IO: 0, Gen: 2
+
+489.Function: my_strcmp
+Line: 1
+Totals - Comp: 358, IO: 0, Gen: 401
+Increments - Comp: 6, IO: 0, Gen: 6
+
+490.Function: my_strcmp
+Line: 1
+Totals - Comp: 352, IO: 0, Gen: 395
+Increments - Comp: 3, IO: 0, Gen: 2
+
+491.Function: my_strcmp
+Line: 1
+Totals - Comp: 349, IO: 0, Gen: 393
+Increments - Comp: 3, IO: 0, Gen: 2
+
+492.Function: my_strlen
+Line: 1
+Totals - Comp: 346, IO: 0, Gen: 391
+Increments - Comp: 1, IO: 0, Gen: 2
+
+493.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 345, IO: 0, Gen: 389
+Increments - Comp: 8, IO: 0, Gen: 8
+
+494.Function: is_keyword
+Line: 1
+Totals - Comp: 337, IO: 0, Gen: 381
+Increments - Comp: 14, IO: 0, Gen: 15
+
+495.Function: my_strcmp
+Line: 1
+Totals - Comp: 323, IO: 0, Gen: 366
+Increments - Comp: 3, IO: 0, Gen: 2
+
+496.Function: my_strcmp
+Line: 1
+Totals - Comp: 320, IO: 0, Gen: 364
+Increments - Comp: 3, IO: 0, Gen: 2
+
+497.Function: my_strcmp
+Line: 1
+Totals - Comp: 317, IO: 0, Gen: 362
+Increments - Comp: 3, IO: 0, Gen: 2
+
+498.Function: my_strcmp
+Line: 1
+Totals - Comp: 314, IO: 0, Gen: 360
+Increments - Comp: 3, IO: 0, Gen: 2
+
+499.Function: my_strcmp
+Line: 1
+Totals - Comp: 311, IO: 0, Gen: 358
+Increments - Comp: 3, IO: 0, Gen: 4
+
+500.Function: my_strcmp
+Line: 1
+Totals - Comp: 308, IO: 0, Gen: 354
+Increments - Comp: 3, IO: 0, Gen: 2
+
+501.Function: my_strcmp
+Line: 1
+Totals - Comp: 305, IO: 0, Gen: 352
+Increments - Comp: 3, IO: 0, Gen: 2
+
+502.Function: my_strlen
+Line: 1
+Totals - Comp: 302, IO: 0, Gen: 350
+Increments - Comp: 0, IO: 0, Gen: 1
+
+503.Function: categorize_token
+Line: 1
+Totals - Comp: 302, IO: 0, Gen: 349
+Increments - Comp: 3, IO: 0, Gen: 0
+
+504.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 299, IO: 0, Gen: 349
+Increments - Comp: 1, IO: 0, Gen: 1
+
+505.Function: categorize_token
+Line: 1
+Totals - Comp: 298, IO: 0, Gen: 348
+Increments - Comp: 4, IO: 0, Gen: 5
+
+506.Function: my_strcpy
+Line: 1
+Totals - Comp: 294, IO: 0, Gen: 343
+Increments - Comp: 11, IO: 0, Gen: 35
+
+507.Function: is_keyword
+Line: 1
+Totals - Comp: 283, IO: 0, Gen: 308
+Increments - Comp: 4, IO: 0, Gen: 5
+
+508.Function: my_strcmp
+Line: 1
+Totals - Comp: 279, IO: 0, Gen: 303
+Increments - Comp: 12, IO: 0, Gen: 10
+
+509.Function: my_strcmp
+Line: 1
+Totals - Comp: 267, IO: 0, Gen: 293
+Increments - Comp: 3, IO: 0, Gen: 2
+
+510.Function: my_strcpy
+Line: 1
+Totals - Comp: 264, IO: 0, Gen: 291
+Increments - Comp: 4, IO: 0, Gen: 14
+
+511.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 260, IO: 0, Gen: 277
+Increments - Comp: 8, IO: 0, Gen: 8
+
+512.Function: is_keyword
+Line: 1
+Totals - Comp: 252, IO: 0, Gen: 269
+Increments - Comp: 4, IO: 0, Gen: 5
+
+513.Function: my_strcmp
+Line: 1
+Totals - Comp: 248, IO: 0, Gen: 264
+Increments - Comp: 12, IO: 0, Gen: 10
+
+514.Function: my_strcmp
+Line: 1
+Totals - Comp: 236, IO: 0, Gen: 254
+Increments - Comp: 3, IO: 0, Gen: 2
+
+515.Function: my_strlen
+Line: 1
+Totals - Comp: 233, IO: 0, Gen: 252
+Increments - Comp: 3, IO: 0, Gen: 4
+
+516.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 230, IO: 0, Gen: 248
+Increments - Comp: 8, IO: 0, Gen: 8
+
+517.Function: is_keyword
+Line: 1
+Totals - Comp: 222, IO: 0, Gen: 240
+Increments - Comp: 14, IO: 0, Gen: 15
+
+518.Function: my_strcmp
+Line: 1
+Totals - Comp: 208, IO: 0, Gen: 225
+Increments - Comp: 3, IO: 0, Gen: 2
+
+519.Function: my_strcmp
+Line: 1
+Totals - Comp: 205, IO: 0, Gen: 223
+Increments - Comp: 3, IO: 0, Gen: 2
+
+520.Function: my_strcmp
+Line: 1
+Totals - Comp: 202, IO: 0, Gen: 221
+Increments - Comp: 3, IO: 0, Gen: 2
+
+521.Function: my_strcmp
+Line: 1
+Totals - Comp: 199, IO: 0, Gen: 219
+Increments - Comp: 3, IO: 0, Gen: 2
+
+522.Function: my_strcmp
+Line: 1
+Totals - Comp: 196, IO: 0, Gen: 217
+Increments - Comp: 3, IO: 0, Gen: 2
+
+523.Function: my_strcmp
+Line: 1
+Totals - Comp: 193, IO: 0, Gen: 215
+Increments - Comp: 9, IO: 0, Gen: 8
+
+524.Function: my_strcmp
+Line: 1
+Totals - Comp: 184, IO: 0, Gen: 207
+Increments - Comp: 3, IO: 0, Gen: 2
+
+525.Function: my_strlen
+Line: 1
+Totals - Comp: 181, IO: 0, Gen: 205
+Increments - Comp: 2, IO: 0, Gen: 3
+
+526.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 179, IO: 0, Gen: 202
+Increments - Comp: 8, IO: 0, Gen: 8
+
+527.Function: is_keyword
+Line: 1
+Totals - Comp: 171, IO: 0, Gen: 194
+Increments - Comp: 14, IO: 0, Gen: 15
+
+528.Function: my_strcmp
+Line: 1
+Totals - Comp: 157, IO: 0, Gen: 179
+Increments - Comp: 3, IO: 0, Gen: 2
+
+529.Function: my_strcmp
+Line: 1
+Totals - Comp: 154, IO: 0, Gen: 177
+Increments - Comp: 3, IO: 0, Gen: 2
+
+530.Function: my_strcmp
+Line: 1
+Totals - Comp: 151, IO: 0, Gen: 175
+Increments - Comp: 3, IO: 0, Gen: 2
+
+531.Function: my_strcmp
+Line: 1
+Totals - Comp: 148, IO: 0, Gen: 173
+Increments - Comp: 3, IO: 0, Gen: 2
+
+532.Function: my_strcmp
+Line: 1
+Totals - Comp: 145, IO: 0, Gen: 171
+Increments - Comp: 3, IO: 0, Gen: 2
+
+533.Function: my_strcmp
+Line: 1
+Totals - Comp: 142, IO: 0, Gen: 169
+Increments - Comp: 6, IO: 0, Gen: 6
+
+534.Function: my_strcmp
+Line: 1
+Totals - Comp: 136, IO: 0, Gen: 163
+Increments - Comp: 3, IO: 0, Gen: 2
+
+535.Function: my_strlen
+Line: 1
+Totals - Comp: 133, IO: 0, Gen: 161
+Increments - Comp: 1, IO: 0, Gen: 2
+
+536.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 132, IO: 0, Gen: 159
+Increments - Comp: 8, IO: 0, Gen: 8
+
+537.Function: is_keyword
+Line: 1
+Totals - Comp: 124, IO: 0, Gen: 151
+Increments - Comp: 14, IO: 0, Gen: 15
+
+538.Function: my_strcmp
+Line: 1
+Totals - Comp: 110, IO: 0, Gen: 136
+Increments - Comp: 3, IO: 0, Gen: 2
+
+539.Function: my_strcmp
+Line: 1
+Totals - Comp: 107, IO: 0, Gen: 134
+Increments - Comp: 3, IO: 0, Gen: 2
+
+540.Function: my_strcmp
+Line: 1
+Totals - Comp: 104, IO: 0, Gen: 132
+Increments - Comp: 3, IO: 0, Gen: 2
+
+541.Function: my_strcmp
+Line: 1
+Totals - Comp: 101, IO: 0, Gen: 130
+Increments - Comp: 3, IO: 0, Gen: 2
+
+542.Function: my_strcmp
+Line: 1
+Totals - Comp: 98, IO: 0, Gen: 128
+Increments - Comp: 3, IO: 0, Gen: 2
+
+543.Function: my_strcmp
+Line: 1
+Totals - Comp: 95, IO: 0, Gen: 126
+Increments - Comp: 3, IO: 0, Gen: 4
+
+544.Function: my_strcmp
+Line: 1
+Totals - Comp: 92, IO: 0, Gen: 122
+Increments - Comp: 3, IO: 0, Gen: 2
+
+545.Function: my_strlen
+Line: 1
+Totals - Comp: 89, IO: 0, Gen: 120
+Increments - Comp: 0, IO: 0, Gen: 1
+
+546.Function: categorize_token
+Line: 1
+Totals - Comp: 89, IO: 0, Gen: 119
+Increments - Comp: 3, IO: 0, Gen: 0
+
+547.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 86, IO: 0, Gen: 119
+Increments - Comp: 1, IO: 0, Gen: 1
+
+548.Function: categorize_token
+Line: 1
+Totals - Comp: 85, IO: 0, Gen: 118
+Increments - Comp: 4, IO: 0, Gen: 5
+
+549.Function: my_strcpy
+Line: 1
+Totals - Comp: 81, IO: 0, Gen: 113
+Increments - Comp: 11, IO: 0, Gen: 35
+
+550.Function: is_keyword
+Line: 1
+Totals - Comp: 70, IO: 0, Gen: 78
+Increments - Comp: 2, IO: 0, Gen: 3
+
+551.Function: my_strcmp
+Line: 1
+Totals - Comp: 68, IO: 0, Gen: 75
+Increments - Comp: 6, IO: 0, Gen: 6
+
+552.Function: my_strcpy
+Line: 1
+Totals - Comp: 62, IO: 0, Gen: 69
+Increments - Comp: 2, IO: 0, Gen: 8
+
+553.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 60, IO: 0, Gen: 61
+Increments - Comp: 8, IO: 0, Gen: 8
+
+554.Function: is_keyword
+Line: 1
+Totals - Comp: 52, IO: 0, Gen: 53
+Increments - Comp: 2, IO: 0, Gen: 3
+
+555.Function: my_strcmp
+Line: 1
+Totals - Comp: 50, IO: 0, Gen: 50
+Increments - Comp: 6, IO: 0, Gen: 6
+
+556.Function: my_strlen
+Line: 1
+Totals - Comp: 44, IO: 0, Gen: 44
+Increments - Comp: 1, IO: 0, Gen: 2
+
+557.Function: dfa_get_next_state
+Line: 1
+Totals - Comp: 43, IO: 0, Gen: 42
+Increments - Comp: 8, IO: 0, Gen: 8
+
+558.Function: is_keyword
+Line: 1
+Totals - Comp: 35, IO: 0, Gen: 34
+Increments - Comp: 14, IO: 0, Gen: 15
+
+559.Function: my_strcmp
+Line: 1
+Totals - Comp: 21, IO: 0, Gen: 19
+Increments - Comp: 3, IO: 0, Gen: 4
+
+560.Function: my_strcmp
+Line: 1
+Totals - Comp: 18, IO: 0, Gen: 15
+Increments - Comp: 3, IO: 0, Gen: 2
+
+561.Function: my_strcmp
+Line: 1
+Totals - Comp: 15, IO: 0, Gen: 13
+Increments - Comp: 3, IO: 0, Gen: 2
+
+562.Function: my_strcmp
+Line: 1
+Totals - Comp: 12, IO: 0, Gen: 11
+Increments - Comp: 3, IO: 0, Gen: 2
+
+563.Function: my_strcmp
+Line: 1
+Totals - Comp: 9, IO: 0, Gen: 9
+Increments - Comp: 3, IO: 0, Gen: 2
+
+564.Function: my_strcmp
+Line: 1
+Totals - Comp: 6, IO: 0, Gen: 7
+Increments - Comp: 3, IO: 0, Gen: 2
+
+565.Function: my_strcmp
+Line: 1
+Totals - Comp: 3, IO: 0, Gen: 5
+Increments - Comp: 3, IO: 0, Gen: 4
+
+566.Function: my_strlen
+Line: 1
+Totals - Comp: 0, IO: 0, Gen: 1
+Increments - Comp: 0, IO: 0, Gen: 1

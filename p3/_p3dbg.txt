@@ -1,0 +1,4 @@
+
+ERROR: No hay regla para reducir en el estado 1
+
+
