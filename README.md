@@ -119,9 +119,12 @@ Debug File Not Generated
 Verify the program was compiled in ddebug mode.
 
 --------------------------------------------------------------------------
-Practice 3 Bottom-up Parsing automata 
+
+Practice 3 Bottom-up Parsing automata
+
 Introduction: 
 Bottom-up parsing is a technique in compilers and formal language processing to construct parse trees from a given input. Unlike top-down parsing, which starts from the grammar's root and attempts to derive the input, the bottom-up approach begins with the input tokens and works upwards, reducing productions until it reaches the start symbol.
+
 Implementing this technique was more complicated than we thought.
 This method relies on shift-reduce parsing, where the parser uses a stack to store symbols and perform two key operations:
 Shift: Reads a new token from the input and pushes it onto the stack.
